@@ -13,7 +13,7 @@ git clone https://github.com/assyddiqjar/tugas-minggu-ke-4.git
 ### 2. Masuk ke Folder Project
 
 ```bash
-cd tugas-minggu-ke-4
+cd "minggu keempat
 ```
 
 ### 3. Install Dependencies
